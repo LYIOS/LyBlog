@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wukong.remote</string>
+				<string>com.wukongtv.remote</string>
 				<key>bundle-version</key>
-				<string>0.6</string>
+				<string>1.4.5.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>悟空遥控器</string>
+				<string>悟空遥控</string>
 			</dict>
 		</dict>
 	</array>
