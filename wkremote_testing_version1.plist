@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://down2.wukongtv.com/iosadhoc/wkremote_testing_version1.ipa</string>
+					<string>https://raw.githubusercontent.com/LYIOS/LyBlog/gh-pages/wkremote_testing_version1.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
